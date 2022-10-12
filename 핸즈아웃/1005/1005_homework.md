@@ -20,7 +20,7 @@
 3.
 
 ```html
-question
+question.comment_set.all
 ```
 
 4.
